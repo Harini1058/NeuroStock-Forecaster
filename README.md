@@ -4,9 +4,13 @@
 ## 👩‍💻 Project Information
 
 **Name:** Harini G
+
 **Register Number:** 212225230091
+
 **Program:** B.Tech Artificial Intelligence and Data Science
+
 **Project:** Developing a Recurrent Neural Network Model for Stock Prediction
+
 **Framework:** PyTorch
 
 ---

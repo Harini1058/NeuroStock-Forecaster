@@ -492,8 +492,11 @@ Through this project, the following concepts are demonstrated:
 ## 👩‍💻 Author
 
 **Harini G**
+
 **B.Tech Artificial Intelligence and Data Science**
+
 **Register Number:** 212225230091
+
 **Slot:** 26OD1143
 
 ---
